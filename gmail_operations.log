@@ -1,0 +1,197 @@
+2025-01-31 09:26:50,481 - INFO - Recognized command: read my emails
+2025-01-31 09:27:29,201 - INFO - Recognized command: inbox
+2025-01-31 09:27:58,895 - INFO - Recognized command: check inbox
+2025-01-31 09:27:58,918 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-31 09:28:34,432 - ERROR - Error checking inbox: 'NoneType' object has no attribute 'lower'
+2025-01-31 09:28:44,565 - INFO - Recognized command: check inbox
+2025-01-31 09:28:44,572 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-31 09:29:20,044 - ERROR - Error checking inbox: 'NoneType' object has no attribute 'lower'
+2025-01-31 09:29:26,561 - INFO - Recognized command: exit
+2025-01-31 09:30:49,617 - INFO - Recognized command: check inbox
+2025-01-31 09:30:49,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-31 09:32:11,446 - INFO - Recognized command: skip
+2025-01-31 09:32:35,818 - INFO - Recognized command: exit
+2025-01-31 09:33:30,199 - INFO - Recognized command: check inbox
+2025-01-31 09:33:30,207 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-31 09:36:20,097 - INFO - Recognized command: inbox
+2025-02-27 00:10:27,370 - WARNING - From c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-02-27 00:10:27,940 - WARNING - From c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\tf_keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2025-02-27 00:12:41,983 - INFO - Recognized command: check inbox
+2025-02-27 00:12:41,986 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-27 00:13:50,026 - INFO - Recognized command: skip
+2025-02-27 00:14:25,577 - INFO - Recognized command: han bol
+2025-02-27 00:21:46,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-27 00:23:39,396 - ERROR - Error processing email 19542c98cce9a46b: listening timed out while waiting for phrase to start
+2025-02-27 00:25:27,518 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-27 00:25:56,943 - ERROR - Error processing email 19542c98cce9a46b: listening timed out while waiting for phrase to start
+2025-03-21 00:41:33,688 - ERROR - Error loading token.pickle: 
+2025-03-21 00:42:03,495 - INFO - "GET /?state=tJ1xoWBo1elWK7EwZA2Y3zvfhpMkjI&code=4/0AQSTgQFMdkOs3D1L_vqvlesZrMf4Aa1Q3fH6kM_1dccsJ3RZQO4KjByj5OF_2_TFrFHwcw&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:42:06,515 - INFO - Listening for speech input...
+2025-03-21 00:42:08,849 - INFO - Recognized speech: check in books
+2025-03-21 00:42:34,226 - ERROR - Error loading token.pickle: 
+2025-03-21 00:42:45,193 - INFO - "GET /?state=LGDEAifAb7VIY1QiXQSqfDNYC0Iect&code=4/0AQSTgQGiSSgh1w5yYAopnW2o_saixO652xwS84Z3wZ8m1ks2cADksV3YT02UIxGasLnFTg&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:42:48,166 - INFO - Listening for speech input...
+2025-03-21 00:42:50,492 - INFO - Recognized speech: check in books
+2025-03-21 00:44:46,918 - ERROR - Error loading token.pickle: 
+2025-03-21 00:44:58,118 - INFO - "GET /?state=RjjBwLn3MXqwuIuhdOxLU5yQIowVTj&code=4/0AQSTgQHQ11HFtiiy66O7pBBt-jAB_6Le8tz_aSriwpeZ27cC80Qqbwqn3LSW-30KCGMzKQ&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:45:00,992 - INFO - Listening for speech input...
+2025-03-21 00:45:03,826 - INFO - Recognized speech: check in books
+2025-03-21 00:46:36,664 - ERROR - Error loading token.pickle: 
+2025-03-21 00:46:46,946 - INFO - "GET /?state=GOQABHWaKFgkCUfaYbahs45wDUrIWW&code=4/0AQSTgQEOy-LzJZTMN2TaJ8LVM7C4bZ2l_LDo1_B5b8HXtHgnC8910FBay1K4r-DMydVz0A&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:46:49,931 - INFO - Listening for speech input...
+2025-03-21 00:46:53,796 - INFO - Recognized speech: check in books
+2025-03-21 00:49:21,239 - ERROR - Error loading token.pickle: 
+2025-03-21 00:49:38,277 - INFO - "GET /?state=Hu1ZGDjOvpAmDsypwFVNPdMc1aD8al&code=4/0AQSTgQHzGKxac8qRjDw5wpPcPeyTg13KOXXxQEAuBqvoaAHoLirgyCvJBd_cejmyeP2BEg&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:49:41,184 - INFO - Listening for speech input...
+2025-03-21 00:49:44,019 - INFO - Recognized speech: in books
+2025-03-21 00:49:44,141 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:49:52,212 - INFO - Listening for speech input...
+2025-03-21 00:49:55,047 - INFO - Recognized speech: check in books
+2025-03-21 00:49:55,169 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:50:03,283 - INFO - Listening for speech input...
+2025-03-21 00:50:05,871 - INFO - Recognized speech: chicken books
+2025-03-21 00:50:05,989 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:50:34,893 - ERROR - Error loading token.pickle: 
+2025-03-21 00:50:47,008 - INFO - "GET /?state=2ctH1qPdXn3FPIpDuGlp0ljCJoKSmg&code=4/0AQSTgQGE9l8wtObB8c6moVJaM17MpVSVWpbBPBypnjMXojymzCmeEdB5s1ZWtBCSk-WszQ&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 00:50:49,941 - INFO - Listening for speech input...
+2025-03-21 00:50:51,755 - INFO - Recognized speech: inbox
+2025-03-21 00:50:51,877 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:50:59,931 - INFO - Listening for speech input...
+2025-03-21 00:51:02,519 - INFO - Recognized speech: send email
+2025-03-21 00:51:02,647 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:02,688 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-21 00:51:08,832 - INFO - Listening for speech input...
+2025-03-21 00:51:10,648 - INFO - Recognized speech: gosh day
+2025-03-21 00:51:10,769 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:17,917 - INFO - Listening for speech input...
+2025-03-21 00:51:22,542 - INFO - Recognized speech: red headed to mean dot com
+2025-03-21 00:51:22,665 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:27,031 - INFO - Listening for speech input...
+2025-03-21 00:51:29,622 - INFO - Recognized speech: best
+2025-03-21 00:51:29,746 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:35,932 - INFO - Listening for speech input...
+2025-03-21 00:51:41,586 - INFO - Recognized speech: yes
+2025-03-21 00:51:41,709 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:46,480 - INFO - Listening for speech input...
+2025-03-21 00:51:52,385 - INFO - Recognized speech: for my email for requesting holiday
+2025-03-21 00:51:52,507 - ERROR - Error closing stream: Stream not open
+2025-03-21 00:51:55,764 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-21 10:35:33,479 - ERROR - Error loading token.pickle: 
+2025-03-21 10:35:53,423 - INFO - "GET /?state=oqHVmRqpOVlDXmuGg5DJNk4nAP6fvf&code=4/0AQSTgQGjIMA8rmY5jfsAWWy0TLA03eabDobLl6osfyMNTKmMexMLQuYZ_oZONXXLN5hbTQ&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 10:35:57,822 - INFO - Listening for speech input...
+2025-03-21 10:36:03,233 - INFO - Recognized speech: 
+2025-03-21 10:36:11,613 - INFO - Recognized speech: 
+2025-04-24 23:38:22,861 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 23:38:22,862 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 23:38:22,993 - ERROR - Error initializing models: Vosk model not found at vosk-model-en-us-0.22
+2025-04-24 23:38:22,993 - ERROR - Fatal error in main execution: Vosk model not found at vosk-model-en-us-0.22
+2025-04-24 23:39:56,093 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 23:39:56,093 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 23:39:59,714 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-24 23:45:31,853 - ERROR - Error loading token.pickle: 
+2025-04-24 23:45:40,785 - INFO - "GET /?state=PCucyJ5RpbrsdsKpVThDUnEx3h8u6K&code=4/0Ab_5qllnWxVgF3Ohkq-5oTtEYnkL_2APOUUgI8yPekbf-hzsQDkYuM8OaktByHXq6BhePA&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-04-24 23:45:41,088 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-24 23:45:44,283 - INFO - Listening for speech input...
+2025-04-24 23:45:47,097 - INFO - Recognized speech: check in books
+2025-04-24 23:45:54,069 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-24 23:45:57,030 - INFO - Listening for speech input...
+2025-04-24 23:45:58,815 - INFO - Recognized speech: in books
+2025-04-24 23:46:05,738 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-24 23:46:08,677 - INFO - Listening for speech input...
+2025-04-24 23:46:10,716 - INFO - Recognized speech: kick in
+2025-04-24 23:51:25,000 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 23:51:25,000 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 23:52:18,312 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 23:52:18,313 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 08:47:30,699 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 08:47:30,701 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 08:47:39,157 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 08:54:13,274 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 08:54:13,274 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 08:54:14,436 - INFO - Commands grammar loaded successfully
+2025-04-25 08:54:18,769 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 08:54:23,045 - INFO - NLP models loaded successfully
+2025-04-25 08:54:23,045 - ERROR - Fatal error in main execution: 'GmailVoiceAssistant' object has no attribute 'main'
+2025-04-25 08:55:50,513 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 08:55:50,513 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 08:55:51,668 - INFO - Commands grammar loaded successfully
+2025-04-25 08:55:55,431 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 08:55:59,108 - INFO - NLP models loaded successfully
+2025-04-25 08:56:04,570 - ERROR - Error loading token.pickle: 
+2025-04-25 08:56:13,733 - INFO - "GET /?state=vtdsrp8BizK2vMycaKUAUNsaZEMxhz&code=4/0Ab_5qll3J9FoX7WV9ARj5_MA5VqQeU00MGWRi-Jzcg5UsbhPH3E7ESSVqSZhRBqZlICRCg&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-04-25 08:56:14,021 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 08:56:20,300 - INFO - Listening for speech input...
+2025-04-25 10:59:34,679 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 10:59:34,685 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 10:59:46,745 - INFO - Whisper model loaded successfully
+2025-04-25 10:59:50,635 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 10:59:57,175 - INFO - NLP models loaded successfully
+2025-04-25 11:00:02,217 - ERROR - Error loading token.pickle: 
+2025-04-25 11:00:12,407 - INFO - "GET /?state=7LjFhd1ZnbrfSHLQMTvrnXpsyt9PiE&code=4/0Ab_5qlkEM-BQmJHAUESK4ei09_SuRpRbp8C1qsdj2RrdmcEuTm0vZBEGxDgfHftZkHRzMA&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-04-25 11:00:12,798 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 11:00:18,589 - INFO - Listening for speech input...
+2025-04-25 11:00:32,291 - INFO - Recognized speech: Check inbox.
+2025-04-25 11:00:32,305 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-25 11:00:56,454 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 11:00:58,529 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:00:58,529 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:00:58,529 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:03,358 - WARNING - Failed to recognize speech on attempt 1.
+2025-04-25 11:01:03,358 - INFO - Attempt 2 of 3 to listen for input.
+2025-04-25 11:01:05,419 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:01:05,419 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:01:05,419 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:10,252 - WARNING - Failed to recognize speech on attempt 2.
+2025-04-25 11:01:10,252 - INFO - Attempt 3 of 3 to listen for input.
+2025-04-25 11:01:11,994 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:01:11,994 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:01:11,994 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:11,994 - WARNING - Failed to recognize speech on attempt 3.
+2025-04-25 11:01:13,825 - WARNING - Max attempts reached. Moving on.
+2025-04-25 11:01:29,059 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 11:01:31,093 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:01:31,093 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:01:31,093 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:35,911 - WARNING - Failed to recognize speech on attempt 1.
+2025-04-25 11:01:35,911 - INFO - Attempt 2 of 3 to listen for input.
+2025-04-25 11:01:37,939 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:01:37,939 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:01:37,939 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:42,730 - WARNING - Failed to recognize speech on attempt 2.
+2025-04-25 11:01:42,730 - INFO - Attempt 3 of 3 to listen for input.
+2025-04-25 11:01:44,809 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:01:44,809 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:01:44,809 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:01:44,810 - WARNING - Failed to recognize speech on attempt 3.
+2025-04-25 11:01:47,005 - WARNING - Max attempts reached. Moving on.
+2025-04-25 11:02:13,018 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 11:02:13,018 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 11:02:24,056 - INFO - Whisper model loaded successfully
+2025-04-25 11:02:27,595 - WARNING - From C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-04-25 11:02:33,279 - INFO - NLP models loaded successfully
+2025-04-25 11:02:38,227 - ERROR - Error loading token.pickle: 
+2025-04-25 11:02:48,111 - INFO - "GET /?state=bW33osQMZBGfO46j6ilstJxjHghHLe&code=4/0Ab_5qln9NjVUcJQirczXxCZ49fQ9CA9tcZ32pch8Njf5Awrnjq2u18vNMTpc1qhQ7mCM0g&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-04-25 11:02:48,517 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 11:02:54,299 - INFO - Listening for speech input...
+2025-04-25 11:03:05,025 - INFO - Recognized speech: you
+2025-04-25 11:03:12,560 - INFO - Attempt 1 of 3 to listen for input.
+2025-04-25 11:03:18,245 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:03:18,245 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:03:18,245 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:03:23,070 - WARNING - Failed to recognize speech on attempt 1.
+2025-04-25 11:03:23,070 - INFO - Attempt 2 of 3 to listen for input.
+2025-04-25 11:03:28,773 - ERROR - Error finding microphone: [Errno -9978] Invalid host api info
+2025-04-25 11:03:28,773 - ERROR - Audio stream setup failed: [Errno -9996] Invalid input device (no default output device)
+2025-04-25 11:03:28,773 - ERROR - Error cleaning up audio: Stream not open
+2025-04-25 11:03:33,587 - WARNING - Failed to recognize speech on attempt 2.
+2025-04-25 11:03:33,587 - INFO - Attempt 3 of 3 to listen for input.
+2025-04-25 11:03:36,884 - ERROR - Error cleaning up audio: Stream not open

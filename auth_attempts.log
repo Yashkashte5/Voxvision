@@ -1,0 +1,226 @@
+2025-01-24 10:53:28,909 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-24 10:53:28,909 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-24 10:53:47,087 - INFO - Authentication successful for Yash.
+2025-01-24 10:55:45,035 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-24 10:55:45,044 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-24 10:56:52,133 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-24 10:56:52,133 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-24 10:57:03,507 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 10:57:10,185 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 10:57:21,792 - WARNING - Authentication failed.
+2025-01-24 10:57:24,280 - ERROR - Error during face verification: Exception while processing img2_path
+2025-01-24 10:57:35,927 - WARNING - Authentication failed.
+2025-01-24 10:57:37,039 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 10:57:43,742 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 10:57:55,405 - WARNING - Authentication failed.
+2025-01-24 10:58:01,090 - INFO - Authentication successful for Yash.
+2025-01-24 11:04:10,266 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-24 11:04:10,266 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-24 11:04:22,381 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:04:29,078 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:04:40,685 - WARNING - Authentication failed.
+2025-01-24 11:04:41,774 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:04:48,452 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:05:00,087 - WARNING - Authentication failed.
+2025-01-24 11:05:01,156 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:05:07,861 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-24 11:05:19,487 - WARNING - Authentication failed.
+2025-01-24 11:05:20,601 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-30 20:25:56,745 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-30 20:25:56,745 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-30 20:27:35,032 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-30 20:27:35,032 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-30 20:29:34,506 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-30 20:29:45,120 - WARNING - Authentication failed. Attempts remaining: 2
+2025-01-30 20:29:49,968 - INFO - Authentication successful for Kenny.
+2025-01-30 22:12:15,539 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-30 22:12:15,540 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-30 22:12:28,903 - INFO - Authentication successful for Kenny.
+2025-01-30 22:12:48,025 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-30 22:12:48,025 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-30 22:12:59,792 - INFO - Authentication successful for Yash.
+2025-01-31 11:59:53,091 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-31 11:59:53,091 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-31 12:01:07,218 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-31 12:01:07,218 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-31 12:01:35,337 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 12:01:47,635 - WARNING - Authentication failed. Attempts remaining: 2
+2025-01-31 12:01:48,850 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 13:08:54,096 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-31 13:08:54,096 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-31 13:08:54,164 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2025-01-31 13:08:54,167 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-01-31 13:08:54,232 - INFO - # Generating comtypes.gen.SpeechLib
+2025-01-31 13:09:04,364 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 13:09:13,874 - WARNING - Authentication failed. Attempts remaining: 2
+2025-01-31 13:21:41,274 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-31 13:21:41,274 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-01-31 13:22:15,162 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 13:22:27,204 - WARNING - Authentication failed. Attempts remaining: 2
+2025-01-31 13:22:28,422 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 13:22:40,720 - WARNING - Authentication failed. Attempts remaining: 1
+2025-01-31 13:22:41,928 - ERROR - Error during face verification: Exception while processing img1_path
+2025-01-31 13:22:54,271 - WARNING - Authentication failed. Attempts remaining: 0
+2025-01-31 13:23:00,036 - ERROR - Authentication failed after multiple attempts.
+2025-02-26 22:05:48,808 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:05:48,808 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:06:11,508 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:06:11,508 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:08:45,624 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:08:45,624 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:09:34,368 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:09:34,368 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:10:46,922 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:10:46,922 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:12:58,201 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:12:58,202 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:14:24,963 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:14:24,964 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:48:22,438 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:48:22,439 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:52:29,198 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:52:29,199 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 22:56:50,322 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\miniconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 22:56:50,323 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\miniconda3\Lib\site-packages\comtypes\gen'
+2025-02-26 23:55:15,779 - INFO - Could not import comtypes.gen, trying to create it.
+2025-02-26 23:55:15,783 - INFO - Created comtypes.gen directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:55:15,783 - INFO - Writing __init__.py file: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen\__init__.py'
+2025-02-26 23:55:15,792 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:55:15,818 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-02-26 23:55:15,822 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-02-26 23:55:15,920 - INFO - # Generating comtypes.gen.SpeechLib
+2025-02-26 23:55:15,928 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-02-26 23:55:15,930 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-02-26 23:55:15,938 - INFO - # Generating comtypes.gen.stdole
+2025-02-26 23:56:04,996 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:56:04,996 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:57:00,253 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:57:00,253 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:57:34,101 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:57:34,101 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:58:07,347 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:58:07,347 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:58:38,018 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:58:38,018 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-26 23:59:50,184 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-26 23:59:50,185 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:00:48,524 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-27 00:00:48,525 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:02:09,365 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-27 00:02:09,366 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:02:53,952 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-27 00:02:53,953 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:03:11,635 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:03:22,239 - WARNING - Authentication failed. Attempts remaining: 2
+2025-02-27 00:03:23,351 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:03:33,949 - WARNING - Authentication failed. Attempts remaining: 1
+2025-02-27 00:03:35,059 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:03:45,833 - WARNING - Authentication failed. Attempts remaining: 0
+2025-02-27 00:03:50,828 - ERROR - Authentication failed after multiple attempts.
+2025-02-27 00:04:09,591 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-27 00:04:09,591 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:04:23,690 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:04:34,236 - WARNING - Authentication failed. Attempts remaining: 2
+2025-02-27 00:04:35,305 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:04:45,848 - WARNING - Authentication failed. Attempts remaining: 1
+2025-02-27 00:04:46,989 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:08:44,521 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\yashk\\OneDrive\\Desktop\\Yash Final Year\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-27 00:08:44,522 - INFO - Using writeable comtypes cache directory: 'c:\Users\yashk\OneDrive\Desktop\Yash Final Year\venv\Lib\site-packages\comtypes\gen'
+2025-02-27 00:08:56,731 - ERROR - Error during face verification: Exception while processing img1_path
+2025-02-27 00:09:07,362 - WARNING - Authentication failed. Attempts remaining: 2
+2025-02-27 00:09:12,876 - INFO - Authentication successful for Yash.
+2025-03-21 10:32:36,296 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-21 10:32:36,296 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-21 10:32:59,805 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:33:10,218 - WARNING - Authentication failed. Attempts remaining: 2
+2025-03-21 10:33:11,319 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:33:21,703 - WARNING - Authentication failed. Attempts remaining: 1
+2025-03-21 10:33:22,791 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:33:33,228 - WARNING - Authentication failed. Attempts remaining: 0
+2025-03-21 10:33:38,100 - ERROR - Authentication failed after multiple attempts.
+2025-03-21 10:57:22,489 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-21 10:57:22,490 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-21 10:57:54,302 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:58:04,546 - WARNING - Authentication failed. Attempts remaining: 2
+2025-03-21 10:58:05,738 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:58:48,156 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-21 10:58:48,157 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-21 10:59:13,914 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 10:59:24,092 - WARNING - Authentication failed. Attempts remaining: 2
+2025-03-21 10:59:29,950 - INFO - Authentication successful for Yash.
+2025-03-21 11:00:09,982 - ERROR - Error loading token.pickle: 
+2025-03-21 11:00:53,176 - INFO - "GET /?state=WbvSBYKMLQ7KkLICP5SCfnk24FIQq0&code=4/0AQSTgQGjj6uGMlR4PjR8srBQE6mTcml1LviCMv8zj3MudhQwasDi1QOvqT2qBEcMN49G8w&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.send%20https://www.googleapis.com/auth/contacts.readonly HTTP/1.1" 200 65
+2025-03-21 11:01:01,706 - INFO - Listening for speech input...
+2025-03-21 11:01:05,589 - INFO - Recognized speech: folks
+2025-03-21 11:01:05,621 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:01:16,326 - INFO - Listening for speech input...
+2025-03-21 11:01:20,465 - INFO - Recognized speech: trick in books
+2025-03-21 11:01:20,513 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:01:31,904 - INFO - Listening for speech input...
+2025-03-21 11:01:37,314 - INFO - Recognized speech: 
+2025-03-21 11:01:45,644 - INFO - Recognized speech: send email
+2025-03-21 11:01:45,687 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:01:45,811 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-21 11:02:04,033 - INFO - Listening for speech input...
+2025-03-21 11:02:09,474 - INFO - Recognized speech: into that
+2025-03-21 11:02:09,529 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:02:19,077 - INFO - Listening for speech input...
+2025-03-21 11:02:21,168 - INFO - Recognized speech: i get it
+2025-03-21 11:02:21,189 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:02:27,918 - INFO - Listening for speech input...
+2025-03-21 11:02:33,316 - INFO - Recognized speech: 
+2025-03-21 11:02:41,692 - INFO - Recognized speech: 
+2025-03-21 11:02:50,379 - INFO - Recognized speech: 
+2025-03-21 11:02:58,937 - INFO - Recognized speech: it's
+2025-03-21 11:02:58,962 - ERROR - Error closing stream: Stream not open
+2025-03-21 11:03:07,563 - INFO - Listening for speech input...
+2025-03-21 11:03:12,974 - INFO - Recognized speech: 
+2025-03-21 11:03:21,358 - INFO - Recognized speech: 
+2025-03-21 15:59:00,771 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-21 15:59:00,772 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-21 15:59:24,147 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 15:59:34,328 - WARNING - Authentication failed. Attempts remaining: 2
+2025-03-21 15:59:35,551 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 15:59:45,637 - WARNING - Authentication failed. Attempts remaining: 1
+2025-03-21 15:59:46,846 - ERROR - Error during face verification: Exception while processing img1_path
+2025-03-21 15:59:57,085 - WARNING - Authentication failed. Attempts remaining: 0
+2025-03-21 16:00:01,936 - ERROR - Authentication failed after multiple attempts.
+2025-04-24 08:29:16,208 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 08:29:16,208 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 08:32:40,615 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 08:32:40,615 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 08:33:19,621 - ERROR - Error during face verification: Exception while processing img1_path
+2025-04-24 08:33:30,160 - WARNING - Authentication failed. Attempts remaining: 2
+2025-04-24 08:33:36,297 - INFO - Authentication successful for Yash.
+2025-04-24 23:28:08,705 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-24 23:28:08,706 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-24 23:28:33,612 - ERROR - Error during face verification: Exception while processing img1_path
+2025-04-24 23:28:41,994 - WARNING - Authentication failed. Attempts remaining: 2
+2025-04-24 23:28:47,784 - WARNING - Authentication failed. Attempts remaining: 1
+2025-04-24 23:28:52,045 - INFO - Authentication successful for Yash.
+2025-04-24 23:29:29,839 - ERROR - Error loading token.pickle: 
+2025-04-24 23:29:39,097 - INFO - "GET /?state=TfliT8oKd6pZ28Fe8qaLWb3ualhfPT&code=4/0Ab_5qlnQHvVefFV-_tPME_BjjjHkBulps_u7xdI_JvUX54fktoRSWjUCiNXMhg2mE1EY0w&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/contacts.readonly%20https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-04-24 23:29:42,915 - INFO - Listening for speech input...
+2025-04-24 23:29:44,001 - INFO - Partial recognized speech: check in
+2025-04-24 23:29:44,321 - INFO - Partial recognized speech: check in books
+2025-04-24 23:29:44,474 - INFO - Partial recognized speech: check in books
+2025-04-24 23:29:44,729 - INFO - Partial recognized speech: check in books
+2025-04-24 23:29:45,024 - INFO - Recognized speech: check in books
+2025-04-24 23:29:53,176 - INFO - Listening for speech input...
+2025-04-24 23:29:54,293 - INFO - Partial recognized speech: taken
+2025-04-24 23:29:54,599 - INFO - Partial recognized speech: taken by
+2025-04-24 23:29:54,760 - INFO - Partial recognized speech: taken by
+2025-04-24 23:29:54,991 - INFO - Partial recognized speech: taken by
+2025-04-24 23:29:55,248 - INFO - Recognized speech: taken books
+2025-04-24 23:30:03,251 - INFO - Listening for speech input...
+2025-04-24 23:30:04,870 - INFO - Partial recognized speech: kicking
+2025-04-24 23:30:05,104 - INFO - Partial recognized speech: chicken
+2025-04-24 23:30:05,340 - INFO - Partial recognized speech: chicken
+2025-04-24 23:30:05,578 - INFO - Partial recognized speech: chicken book
+2025-04-24 23:30:05,839 - INFO - Recognized speech: chicken book
+2025-04-25 11:14:02,186 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\yashk\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 11:14:02,186 - INFO - Using writeable comtypes cache directory: 'C:\Users\yashk\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-25 11:14:20,345 - ERROR - Error during face verification: Exception while processing img1_path
+2025-04-25 11:14:32,034 - WARNING - Authentication failed. Attempts remaining: 2
+2025-04-25 11:14:39,242 - WARNING - Authentication failed. Attempts remaining: 1
+2025-04-25 11:14:40,314 - ERROR - Error during face verification: Exception while processing img1_path
